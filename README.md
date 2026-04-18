@@ -2,5 +2,5 @@
 複数のアセットを追加したプロジェクトセットです。
 
 ## アセット
-・DoTween
+・DoTween  
 ・UniTask
